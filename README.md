@@ -9,6 +9,6 @@ Team POAS (POSTECH, ASAN Medical Center)
 |--`trainB`: High Resolution Train Dataset  
 |--`testA`: Low Resolution Test Dataset  
 |--`testB`: Same to testA
-
+'label_inform.json': Label class information
 ## Train/Test Phase  
 `sample_base.sh`: Sample Training Code
